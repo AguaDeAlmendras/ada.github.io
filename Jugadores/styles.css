@@ -100,7 +100,7 @@ body {
 .hero.jugadores-hero {
   height: calc(70vh + 3rem); /* altura + espacio línea morada */
   background: linear-gradient(rgba(10,10,10,0.8), rgba(10,10,10,0.8)),
-              url('img/e8512d7eba07a0a2dd2c88b08c9a5c0e.jpg') center/cover no-repeat;
+              url('Img/e8512d7eba07a0a2dd2c88b08c9a5c0e.jpg') center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
